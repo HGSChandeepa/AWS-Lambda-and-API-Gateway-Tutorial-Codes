@@ -18,8 +18,8 @@ exports.handler = async (event) => {
 
     // Connect to MongoDB
     await client.connect();
-    const database = client.db("Api-Auth");
-    const collection = database.collection("usagePlans");
+    const database = client.db("DB Name");
+    const collection = database.collection("Collectio Name");
 
     console.log("Connected to the database" + apiKey);
 
