@@ -11,7 +11,7 @@ This repository contains an AWS Lambda function that connects to MongoDB to retr
 ## Prerequisites
 
 - AWS Account
-- Node.js (14.x or higher)
+- Node.js (20.x or higher)
 - MongoDB Atlas account (or local MongoDB instance)
 - AWS CLI configured
 
